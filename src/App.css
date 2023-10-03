@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 1280px;
+}
+
+.cards__list {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  gap: 0.8rem;
+  padding: 1.3rem;
+}
